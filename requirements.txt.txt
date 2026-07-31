@@ -5,3 +5,4 @@ accelerate
 pandas
 rapidfuzz
 huggingface_hub
+google-generativeai
