@@ -1,8 +1,5 @@
 streamlit
-transformers
-torch
-accelerate
 pandas
 rapidfuzz
-huggingface_hub
 google-generativeai
+huggingface_hub
